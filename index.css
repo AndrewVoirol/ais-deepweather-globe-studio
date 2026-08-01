@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* DeepWeather Globe Studio - Base Styles */
+/* Most styling is handled by Tailwind CDN; this file prevents the 404 */
