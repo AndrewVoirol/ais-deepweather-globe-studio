@@ -7,7 +7,7 @@ A 3D weather snow globe powered by Gemini. Type any city — the globe rebuilds 
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USER/deepweather-globe-studio.git
+git clone https://github.com/AndrewVoirol/ais-deepweather-globe-studio.git
 cd deepweather-globe-studio
 npm install
 npm run dev
